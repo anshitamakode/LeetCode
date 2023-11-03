@@ -9,7 +9,7 @@ class Solution {
                 list.add("Pop");
             }
             else{
-                k++;
+                k = k+1;
             }
         }
         return list;
