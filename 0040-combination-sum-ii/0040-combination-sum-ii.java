@@ -8,7 +8,7 @@ class Solution {
         if(s == candidates.length || target < 0)
             return;
         for(int i=s;i<candidates.length;i++){
-            if(i != s && candidates[i]==candidates[i-1]) 
+            if(i != s && candidates[i] == candidates[i-1]) 
                 continue;
             int num = candidates[i];
             list.add(num);
