@@ -8,11 +8,8 @@ class Solution {
             int sum = people[i] + people[j];
             if(sum <= limit){
                 i++;
-                cnt++;
-            } 
-            else{
-                cnt++;
             }
+            cnt++;
             j--;
         }
         return cnt;
