@@ -5,7 +5,7 @@ class Solution {
         int start = intervals[0][0];
         int end = intervals[0][1];
         for(int[] val: intervals){
-            if(val[0] <= end){
+            if(end >= val[0]){
                 end = Math.max(end, val[1]);
             } 
             else{
