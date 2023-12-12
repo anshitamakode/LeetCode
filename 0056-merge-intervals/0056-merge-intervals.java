@@ -15,6 +15,6 @@ class Solution {
             }
         }
         answer.add(new int[]{start,end}); 
-        return answer.toArray(new int[0][]); 
+        return answer.toArray(new int[answer.size()][]); 
     }
 }
