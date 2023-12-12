@@ -4,14 +4,14 @@ class Solution {
         Arrays.sort(intervals, (a,b) -> a[0] - b[0]);
         int start = intervals[0][0];
         int end = intervals[0][1];
-        for(int[] val: intervals){
-            if(end >= val[0]){
-                end = Math.max(end, val[1]);
+        for(int[] curr: intervals){
+            if(end >= curr[0]){
+                end = Math.max(end, curr[1]);
             } 
             else{
                 answer.add(new int[]{start,end});
-                start = val[0];
-                end = val[1];
+                start = curr[0];
+                end = curr[1];
             }
         }
         answer.add(new int[]{start,end}); 
