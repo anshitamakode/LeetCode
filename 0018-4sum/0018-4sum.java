@@ -41,29 +41,6 @@ class Solution {
         for(List<Integer> list : set){
             ans.add(list);
         }
-        /*Map<Integer, Pair> map = new HashMap<>();
-        for(int i=0;i<n-1;i++){
-            for(int j=i+1;j<n;j++){
-                long sum = nums[i]+nums[j];
-                map.put((int)sum, new Pair(i, j));
-            }
-        }
-        for(int i=0;i<n-1;i++){
-            for(int j=i+1;j<n;j++){
-                long val = nums[i] + nums[j];
-                long w = target - val;
-                if(map.containsKey((int)w)){
-                    Pair p = map.get(w);
-                    if(i != p.i && j != p.j && i != p.j && j != p.i){
-                        List<Integer> lst = Arrays.asList(i, j, p.i, p.j);
-                        set.add(lst);
-                    }
-                }
-            }
-        }
-        for(List<Integer> list : set){
-            ans.add(list);
-        }*/
         return ans;
     }
 }
