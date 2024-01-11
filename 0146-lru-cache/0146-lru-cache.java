@@ -1,8 +1,8 @@
 class LRUCache
 {
     int capacity;
-    Queue<Integer> q = new LinkedList<>();
-    Map<Integer,Integer> map = new HashMap<>();
+    Queue<Integer> queue = new LinkedList<>();
+    Map<Integer, Integer> map = new HashMap<>();
     
     public LRUCache(int capacity) 
     {
@@ -13,31 +13,30 @@ class LRUCache
     {
         if(map.containsKey(key)) 
         {
-            q.remove(key);
-            q.add(key);
+            queue.remove(key);
+            queue.add(key);
             return map.get(key);
         } 
-        else 
-            return -1; 
+        return -1; 
     }
     public void put(int key, int value) 
     {
         if(map.containsKey(key))
         {
-            q.remove(key);
-            q.add(key);
+            queue.remove(key);
+            queue.add(key);
             map.put(key,value);
         }
         else 
         {
-            if(q.size() < capacity)
-                q.offer(key);
+            if(capacity > queue.size())
+                queue.add(key);
             else 
             {
-                map.remove(q.remove());
-                q.add(key);
+                map.remove(queue.remove());
+                queue.add(key);
             }
-            map.put(key,value);
+            map.put(key, value);
         }
     }
 }
