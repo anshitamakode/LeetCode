@@ -3,7 +3,7 @@ class Solution {
         int i=m-1, j=n-1;
         int k = m + n -1;
         if(nums1.length == nums2.length){
-            i = n-1;
+            i = j;
         }
         while(i >= 0 && j >= 0){
             if(nums1.length == nums2.length){
@@ -13,7 +13,6 @@ class Solution {
             }
             else if(nums1[i] > nums2[j]){
                 nums1[k] = nums1[i];
-                nums1[i] = 0;
                 i--;
             }
             else{
