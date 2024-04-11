@@ -3,15 +3,15 @@ class Solution {
         int i=m-1, j=n-1;
         int k = m + n -1;
         if(nums1.length == nums2.length){
-            i = j;
+            i = -1;
         }
         while(i >= 0 && j >= 0){
-            if(nums1.length == nums2.length){
+            /*if(nums1.length == nums2.length){
                 nums1[i] = nums2[j];
                 i--;
                 j--;
-            }
-            else if(nums1[i] > nums2[j]){
+            }*/
+            if(nums1[i] > nums2[j]){
                 nums1[k] = nums1[i];
                 i--;
             }
