@@ -23,15 +23,11 @@ class Solution {
             }
             temp = temp.next;
         }
-        while(h1 != null){
+        if(h1 != null){
             temp.next = h1;
-            h1 = h1.next;
-            temp = temp.next;
         }
-        while(h2 != null){
+        if(h2 != null){
             temp.next = h2;
-            h2 = h2.next;
-            temp = temp.next;
         }
         return ans.next;
     }
