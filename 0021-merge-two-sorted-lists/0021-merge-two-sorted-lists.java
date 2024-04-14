@@ -15,7 +15,7 @@ class Solution {
         if(h1 == null && h2 == null)
             return null;
         if(h1 == null)
-                return h2;
+            return h2;
         if(h2 == null)
             return h1;
         if(h1.val < h2.val){
