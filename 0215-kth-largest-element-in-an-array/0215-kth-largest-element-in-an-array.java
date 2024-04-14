@@ -2,7 +2,6 @@ class Solution {
     public int partition(int l, int r, int[] nums){
         int p = l;
         l = l+1;
-        System.out.println("l "+l+" r "+r+" p "+p);
         while(l <= r){
             if(nums[l] > nums[p] && nums[r] < nums[p]){
                 int temp = nums[l];
