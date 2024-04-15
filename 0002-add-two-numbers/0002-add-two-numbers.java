@@ -14,13 +14,8 @@ class Solution {
         int carry = 0;
         while(h1 != null && h2 != null){
             int sum = h1.val + h2.val + carry;
-            if(sum > 9){
-                carry = sum / 10;
-                sum = sum % 10;
-            }
-            else{
-                carry = 0;
-            }
+            carry = sum / 10;
+            sum = sum % 10;
             ListNode node = new ListNode(sum, null);
             if(head == null){
                 head = node;
@@ -35,13 +30,8 @@ class Solution {
         }
         while(h1 != null){
             int sum = h1.val + carry;
-            if(sum > 9){
-                carry = sum / 10;
-                sum = sum % 10;
-            }
-            else{
-                carry = 0;
-            }
+            carry = sum / 10;
+            sum = sum % 10;
             ListNode node = new ListNode(sum, null);
             temp.next = node;
             temp = temp.next;
@@ -49,13 +39,8 @@ class Solution {
         }
         while(h2 != null){
             int sum = h2.val + carry;
-            if(sum > 9){
-                carry = sum / 10;
-                sum = sum % 10;
-            }
-            else{
-                carry = 0;
-            }
+            carry = sum / 10;
+            sum = sum % 10;
             ListNode node = new ListNode(sum, null);
             temp.next = node;
             temp = temp.next;
