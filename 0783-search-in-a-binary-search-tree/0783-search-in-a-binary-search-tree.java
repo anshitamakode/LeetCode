@@ -17,10 +17,7 @@ class Solution {
     public TreeNode node = null;
     public TreeNode searchBST(TreeNode root, int val) {
         helper(root, val);
-        if(node != null)
-            return node;
-        else
-            return null;
+        return node;
     }
     public void helper(TreeNode root, int val){
         if(root == null || root.val == val){
