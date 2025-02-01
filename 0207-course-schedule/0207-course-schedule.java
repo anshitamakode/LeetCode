@@ -9,8 +9,8 @@ class Solution {
             int v = prerequisites[i][1];
             adjList[u].add(v);
         }
-        int[] vis = new int[numCourses+1];
-        int[] path = new int[numCourses+1];
+        int[] vis = new int[numCourses];
+        int[] path = new int[numCourses];
         for(int i=0;i<numCourses;i++){
             if(vis[i] == 0){
                 if(dfs(adjList, vis, path, i) == true) return false;
