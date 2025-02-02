@@ -35,7 +35,6 @@ class Solution {
                 int newi = i + x[k];
                 int newj = j + y[k];
                 if(newi >=0 && newi < n && newj >=0 && newj < m && vis[newi][newj] == -1 && grid[newi][newj] == 1){
-                    grid[newi][newj] = 2;
                     queue.add(new Pair(newi, newj));
                     vis[newi][newj] = vis[i][j] + 1;
                 }
@@ -44,7 +43,7 @@ class Solution {
         int max = 0;
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
-                if(grid[i][j] == 1)
+                if(grid[i][j] == 1 && vis[i][j] == -1)
                     return -1;
                 max = Math.max(vis[i][j], max);
             }
