@@ -20,6 +20,7 @@ My LC Profile
 | ------- |
 | [0001-two-sum](https://github.com/anshitamakode/LeetCode/tree/master/0001-two-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anshitamakode/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1036-rotting-oranges](https://github.com/anshitamakode/LeetCode/tree/master/1036-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@ My LC Profile
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/anshitamakode/LeetCode/tree/master/0207-course-schedule) |
+| [1036-rotting-oranges](https://github.com/anshitamakode/LeetCode/tree/master/1036-rotting-oranges) |
 ## Graph
 |  |
 | ------- |
@@ -41,4 +43,8 @@ My LC Profile
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/anshitamakode/LeetCode/tree/master/0207-course-schedule) |
+## Matrix
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/anshitamakode/LeetCode/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
