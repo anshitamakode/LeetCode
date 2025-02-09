@@ -29,6 +29,7 @@ My LC Profile
 | [0242-valid-anagram](https://github.com/anshitamakode/LeetCode/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/anshitamakode/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anshitamakode/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/anshitamakode/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -56,6 +57,7 @@ My LC Profile
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshitamakode/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/anshitamakode/LeetCode/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/anshitamakode/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/anshitamakode/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Sliding Window
 |  |
 | ------- |
@@ -65,6 +67,7 @@ My LC Profile
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/anshitamakode/LeetCode/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/anshitamakode/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Linked List
 |  |
 | ------- |
@@ -73,4 +76,16 @@ My LC Profile
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/anshitamakode/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/anshitamakode/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/anshitamakode/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/anshitamakode/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
