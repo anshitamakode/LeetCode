@@ -11,6 +11,7 @@ My LC Profile
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/anshitamakode/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [1046-max-consecutive-ones-iii](https://github.com/anshitamakode/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -21,6 +22,7 @@ My LC Profile
 | [0001-two-sum](https://github.com/anshitamakode/LeetCode/tree/master/0001-two-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anshitamakode/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1036-rotting-oranges](https://github.com/anshitamakode/LeetCode/tree/master/1036-rotting-oranges) |
+| [1046-max-consecutive-ones-iii](https://github.com/anshitamakode/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +65,7 @@ My LC Profile
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshitamakode/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/anshitamakode/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1046-max-consecutive-ones-iii](https://github.com/anshitamakode/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -88,4 +91,8 @@ My LC Profile
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/anshitamakode/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/anshitamakode/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
