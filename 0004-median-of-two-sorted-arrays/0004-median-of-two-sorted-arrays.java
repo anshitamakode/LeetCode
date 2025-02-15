@@ -4,7 +4,7 @@ class Solution {
         int n = nums1.length;
         int m = nums2.length;
         int p = m+n;
-        int ans[] = new int[p];
+        double ans[] = new double[p];
         while(i<n && j<m){
             if(nums1[i] < nums2[j])
                 ans[k++] = nums1[i++];
@@ -18,8 +18,8 @@ class Solution {
             ans[k++] = nums2[j++];
         }
         if(p % 2 != 0)
-            return (double)ans[p/2];
+            return ans[p/2];
         else
-            return (double)(ans[p/2] + ans[(p-1)/2])/2;
+            return (ans[p/2] + ans[(p-1)/2])/2;
     }
 }
