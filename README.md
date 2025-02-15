@@ -21,6 +21,7 @@ My LC Profile
 | ------- |
 | [0001-two-sum](https://github.com/anshitamakode/LeetCode/tree/master/0001-two-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anshitamakode/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0747-min-cost-climbing-stairs](https://github.com/anshitamakode/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1036-rotting-oranges](https://github.com/anshitamakode/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/anshitamakode/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Hash Table
@@ -95,4 +96,8 @@ My LC Profile
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/anshitamakode/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0747-min-cost-climbing-stairs](https://github.com/anshitamakode/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 <!---LeetCode Topics End-->
