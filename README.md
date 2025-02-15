@@ -10,6 +10,7 @@ My LC Profile
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/anshitamakode/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0783-search-in-a-binary-search-tree](https://github.com/anshitamakode/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1046-max-consecutive-ones-iii](https://github.com/anshitamakode/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Binary Tree
@@ -20,6 +21,7 @@ My LC Profile
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anshitamakode/LeetCode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/anshitamakode/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anshitamakode/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0747-min-cost-climbing-stairs](https://github.com/anshitamakode/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1036-rotting-oranges](https://github.com/anshitamakode/LeetCode/tree/master/1036-rotting-oranges) |
@@ -106,4 +108,8 @@ My LC Profile
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/anshitamakode/LeetCode/tree/master/0002-add-two-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/anshitamakode/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
