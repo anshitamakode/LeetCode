@@ -75,10 +75,12 @@ My LC Profile
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anshitamakode/LeetCode/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/anshitamakode/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anshitamakode/LeetCode/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/anshitamakode/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 ## Heap (Priority Queue)
 |  |
@@ -100,4 +102,8 @@ My LC Profile
 |  |
 | ------- |
 | [0747-min-cost-climbing-stairs](https://github.com/anshitamakode/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/anshitamakode/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
