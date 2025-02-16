@@ -6,6 +6,7 @@ My LC Profile
 ## Tree
 |  |
 | ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/anshitamakode/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0783-search-in-a-binary-search-tree](https://github.com/anshitamakode/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -43,6 +44,7 @@ My LC Profile
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/anshitamakode/LeetCode/tree/master/0207-course-schedule) |
+| [0341-flatten-nested-list-iterator](https://github.com/anshitamakode/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -144,8 +146,21 @@ My LC Profile
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anshitamakode/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0341-flatten-nested-list-iterator](https://github.com/anshitamakode/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anshitamakode/LeetCode/tree/master/0042-trapping-rain-water) |
+## Design
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/anshitamakode/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
+## Queue
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/anshitamakode/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/anshitamakode/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 <!---LeetCode Topics End-->
