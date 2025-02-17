@@ -8,6 +8,7 @@ My LC Profile
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/anshitamakode/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anshitamakode/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/anshitamakode/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0341-flatten-nested-list-iterator](https://github.com/anshitamakode/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0783-search-in-a-binary-search-tree](https://github.com/anshitamakode/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Search Tree
@@ -22,6 +23,7 @@ My LC Profile
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/anshitamakode/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anshitamakode/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/anshitamakode/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/anshitamakode/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Array
 |  |
@@ -50,6 +52,7 @@ My LC Profile
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/anshitamakode/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anshitamakode/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/anshitamakode/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0207-course-schedule](https://github.com/anshitamakode/LeetCode/tree/master/0207-course-schedule) |
 | [0341-flatten-nested-list-iterator](https://github.com/anshitamakode/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 ## Breadth-First Search
@@ -154,6 +157,7 @@ My LC Profile
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anshitamakode/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0144-binary-tree-preorder-traversal](https://github.com/anshitamakode/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0341-flatten-nested-list-iterator](https://github.com/anshitamakode/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 ## Monotonic Stack
 |  |
