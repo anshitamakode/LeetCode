@@ -15,6 +15,7 @@ My LC Profile
 | [0341-flatten-nested-list-iterator](https://github.com/anshitamakode/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0663-equal-tree-partition](https://github.com/anshitamakode/LeetCode/tree/master/0663-equal-tree-partition) |
 | [0783-search-in-a-binary-search-tree](https://github.com/anshitamakode/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anshitamakode/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -33,6 +34,7 @@ My LC Profile
 | [0199-binary-tree-right-side-view](https://github.com/anshitamakode/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0663-equal-tree-partition](https://github.com/anshitamakode/LeetCode/tree/master/0663-equal-tree-partition) |
 | [0783-search-in-a-binary-search-tree](https://github.com/anshitamakode/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anshitamakode/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Array
 |  |
 | ------- |
@@ -55,6 +57,7 @@ My LC Profile
 | [0438-find-all-anagrams-in-a-string](https://github.com/anshitamakode/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anshitamakode/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/anshitamakode/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anshitamakode/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -66,6 +69,7 @@ My LC Profile
 | [0207-course-schedule](https://github.com/anshitamakode/LeetCode/tree/master/0207-course-schedule) |
 | [0341-flatten-nested-list-iterator](https://github.com/anshitamakode/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0663-equal-tree-partition](https://github.com/anshitamakode/LeetCode/tree/master/0663-equal-tree-partition) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anshitamakode/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -74,6 +78,7 @@ My LC Profile
 | [0112-path-sum](https://github.com/anshitamakode/LeetCode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/anshitamakode/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/anshitamakode/LeetCode/tree/master/0207-course-schedule) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anshitamakode/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/anshitamakode/LeetCode/tree/master/1036-rotting-oranges) |
 ## Graph
 |  |
@@ -108,6 +113,7 @@ My LC Profile
 | [0215-kth-largest-element-in-an-array](https://github.com/anshitamakode/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/anshitamakode/LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/anshitamakode/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anshitamakode/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Linked List
 |  |
 | ------- |
