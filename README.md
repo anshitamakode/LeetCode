@@ -47,6 +47,7 @@ My LC Profile
 | [0039-combination-sum](https://github.com/anshitamakode/LeetCode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/anshitamakode/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anshitamakode/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0212-word-search-ii](https://github.com/anshitamakode/LeetCode/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anshitamakode/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0416-partition-equal-subset-sum](https://github.com/anshitamakode/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anshitamakode/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -98,6 +99,7 @@ My LC Profile
 ## Matrix
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/anshitamakode/LeetCode/tree/master/0212-word-search-ii) |
 | [1036-rotting-oranges](https://github.com/anshitamakode/LeetCode/tree/master/1036-rotting-oranges) |
 ## String
 |  |
@@ -106,6 +108,7 @@ My LC Profile
 | [0005-longest-palindromic-substring](https://github.com/anshitamakode/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/anshitamakode/LeetCode/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/anshitamakode/LeetCode/tree/master/0115-distinct-subsequences) |
+| [0212-word-search-ii](https://github.com/anshitamakode/LeetCode/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/anshitamakode/LeetCode/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/anshitamakode/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/anshitamakode/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -179,6 +182,7 @@ My LC Profile
 | ------- |
 | [0022-generate-parentheses](https://github.com/anshitamakode/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/anshitamakode/LeetCode/tree/master/0039-combination-sum) |
+| [0212-word-search-ii](https://github.com/anshitamakode/LeetCode/tree/master/0212-word-search-ii) |
 ## Quickselect
 |  |
 | ------- |
@@ -205,4 +209,8 @@ My LC Profile
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/anshitamakode/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
+## Trie
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/anshitamakode/LeetCode/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
