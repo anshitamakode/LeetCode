@@ -40,23 +40,23 @@ class Solution {
         visited[i][j] = false;
     }
     public List<String> findWords(char[][] board, String[] words) {
-    int n = board.length;
-    int m = board[0].length;
-    Trie root = new Trie(null);
-    StringBuilder sb = new StringBuilder();
-    boolean[][] visited = new boolean[n][m];
-    for(String word : words) {
-        addWordinTrie(root, word);
-    }
-    for(int i=0;i<n;i++)
-        Arrays.fill(visited[i], false);
-    for(int i=0;i<n;i++){
-        for(int j=0;j<m;j++){
-            if(!visited[i][j])
-                dfs(board, root, sb, i, j, n, m, visited);
+        int n = board.length;
+        int m = board[0].length;
+        Trie root = new Trie(null);
+        StringBuilder sb = new StringBuilder();
+        boolean[][] visited = new boolean[n][m];
+        for(String word : words) {
+            addWordinTrie(root, word);
         }
-    }
-    return new ArrayList<>(ansSet);
+        for(int i=0;i<n;i++)
+            Arrays.fill(visited[i], false);
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(!visited[i][j])
+                    dfs(board, root, sb, i, j, n, m, visited);
+            }
+        }
+        return new ArrayList<>(ansSet);
     }
     
 }
