@@ -46,6 +46,7 @@ My LC Profile
 | [0004-median-of-two-sorted-arrays](https://github.com/anshitamakode/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/anshitamakode/LeetCode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/anshitamakode/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0079-word-search](https://github.com/anshitamakode/LeetCode/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anshitamakode/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0212-word-search-ii](https://github.com/anshitamakode/LeetCode/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anshitamakode/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -68,6 +69,7 @@ My LC Profile
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/anshitamakode/LeetCode/tree/master/0079-word-search) |
 | [0099-recover-binary-search-tree](https://github.com/anshitamakode/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anshitamakode/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/anshitamakode/LeetCode/tree/master/0112-path-sum) |
@@ -99,6 +101,7 @@ My LC Profile
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/anshitamakode/LeetCode/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/anshitamakode/LeetCode/tree/master/0212-word-search-ii) |
 | [1036-rotting-oranges](https://github.com/anshitamakode/LeetCode/tree/master/1036-rotting-oranges) |
 ## String
@@ -107,6 +110,7 @@ My LC Profile
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshitamakode/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/anshitamakode/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/anshitamakode/LeetCode/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/anshitamakode/LeetCode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/anshitamakode/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0212-word-search-ii](https://github.com/anshitamakode/LeetCode/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/anshitamakode/LeetCode/tree/master/0242-valid-anagram) |
@@ -182,6 +186,7 @@ My LC Profile
 | ------- |
 | [0022-generate-parentheses](https://github.com/anshitamakode/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/anshitamakode/LeetCode/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/anshitamakode/LeetCode/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/anshitamakode/LeetCode/tree/master/0212-word-search-ii) |
 ## Quickselect
 |  |
