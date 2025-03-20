@@ -8,8 +8,6 @@ class Trie{
     }
 }
 class Solution {
-    public Set<String> set = new HashSet<>();
-    public List<String> list = new ArrayList<>();
     public Set<String> ansSet = new HashSet<>();
     public void addWordinTrie(Trie root, String s){
         Trie cur = root;
@@ -49,9 +47,6 @@ class Solution {
     boolean[][] visited = new boolean[n][m];
     for(String word : words) {
         addWordinTrie(root, word);
-    }
-    for(int i=0;i<words.length;i++){
-        set.add(words[i]);
     }
     for(int i=0;i<n;i++)
         Arrays.fill(visited[i], false);
