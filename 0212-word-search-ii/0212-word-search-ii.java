@@ -42,8 +42,8 @@ class Solution {
         visited[i][j] = false;
     }
     public List<String> findWords(char[][] board, String[] words) {
-    int n = board.length;//no of rows
-    int m = board[0].length;//no of columns
+    int n = board.length;
+    int m = board[0].length;
     Trie root = new Trie(null);
     StringBuilder sb = new StringBuilder();
     boolean[][] visited = new boolean[n][m];
