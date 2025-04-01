@@ -23,6 +23,7 @@ My LC Profile
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anshitamakode/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0099-recover-binary-search-tree](https://github.com/anshitamakode/LeetCode/tree/master/0099-recover-binary-search-tree) |
+| [0162-find-peak-element](https://github.com/anshitamakode/LeetCode/tree/master/0162-find-peak-element) |
 | [0783-search-in-a-binary-search-tree](https://github.com/anshitamakode/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1046-max-consecutive-ones-iii](https://github.com/anshitamakode/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Binary Tree
@@ -48,6 +49,7 @@ My LC Profile
 | [0042-trapping-rain-water](https://github.com/anshitamakode/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0079-word-search](https://github.com/anshitamakode/LeetCode/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anshitamakode/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0162-find-peak-element](https://github.com/anshitamakode/LeetCode/tree/master/0162-find-peak-element) |
 | [0212-word-search-ii](https://github.com/anshitamakode/LeetCode/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anshitamakode/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0416-partition-equal-subset-sum](https://github.com/anshitamakode/LeetCode/tree/master/0416-partition-equal-subset-sum) |
