@@ -57,6 +57,7 @@ My LC Profile
 | [0747-min-cost-climbing-stairs](https://github.com/anshitamakode/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1036-rotting-oranges](https://github.com/anshitamakode/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/anshitamakode/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/anshitamakode/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Hash Table
 |  |
 | ------- |
@@ -132,6 +133,7 @@ My LC Profile
 | [0242-valid-anagram](https://github.com/anshitamakode/LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/anshitamakode/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anshitamakode/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/anshitamakode/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Linked List
 |  |
 | ------- |
@@ -169,6 +171,7 @@ My LC Profile
 | [0115-distinct-subsequences](https://github.com/anshitamakode/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0416-partition-equal-subset-sum](https://github.com/anshitamakode/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/anshitamakode/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/anshitamakode/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Math
 |  |
 | ------- |
