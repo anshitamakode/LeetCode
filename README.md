@@ -45,6 +45,7 @@ My LC Profile
 | ------- |
 | [0001-two-sum](https://github.com/anshitamakode/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/anshitamakode/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/anshitamakode/LeetCode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/anshitamakode/LeetCode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/anshitamakode/LeetCode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/anshitamakode/LeetCode/tree/master/0042-trapping-rain-water) |
@@ -134,6 +135,7 @@ My LC Profile
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/anshitamakode/LeetCode/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anshitamakode/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/anshitamakode/LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/anshitamakode/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -194,6 +196,7 @@ My LC Profile
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anshitamakode/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/anshitamakode/LeetCode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/anshitamakode/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/anshitamakode/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/anshitamakode/LeetCode/tree/master/0141-linked-list-cycle) |
