@@ -52,6 +52,7 @@ My LC Profile
 | [0079-word-search](https://github.com/anshitamakode/LeetCode/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anshitamakode/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/anshitamakode/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/anshitamakode/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/anshitamakode/LeetCode/tree/master/0162-find-peak-element) |
 | [0212-word-search-ii](https://github.com/anshitamakode/LeetCode/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anshitamakode/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -182,6 +183,7 @@ My LC Profile
 | [0022-generate-parentheses](https://github.com/anshitamakode/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anshitamakode/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/anshitamakode/LeetCode/tree/master/0115-distinct-subsequences) |
+| [0152-maximum-product-subarray](https://github.com/anshitamakode/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0416-partition-equal-subset-sum](https://github.com/anshitamakode/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/anshitamakode/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/anshitamakode/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
