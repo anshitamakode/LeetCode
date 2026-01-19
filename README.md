@@ -55,6 +55,7 @@ My LC Profile
 | [0162-find-peak-element](https://github.com/anshitamakode/LeetCode/tree/master/0162-find-peak-element) |
 | [0212-word-search-ii](https://github.com/anshitamakode/LeetCode/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anshitamakode/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/anshitamakode/LeetCode/tree/master/0229-majority-element-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/anshitamakode/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anshitamakode/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0747-min-cost-climbing-stairs](https://github.com/anshitamakode/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
@@ -71,6 +72,7 @@ My LC Profile
 | [0141-linked-list-cycle](https://github.com/anshitamakode/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anshitamakode/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anshitamakode/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0229-majority-element-ii](https://github.com/anshitamakode/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/anshitamakode/LeetCode/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/anshitamakode/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anshitamakode/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -137,6 +139,7 @@ My LC Profile
 | ------- |
 | [0015-3sum](https://github.com/anshitamakode/LeetCode/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anshitamakode/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/anshitamakode/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/anshitamakode/LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/anshitamakode/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anshitamakode/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -166,6 +169,7 @@ My LC Profile
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/anshitamakode/LeetCode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/anshitamakode/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Prefix Sum
 |  |
