@@ -26,6 +26,7 @@ My LC Profile
 | [0099-recover-binary-search-tree](https://github.com/anshitamakode/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anshitamakode/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/anshitamakode/LeetCode/tree/master/0162-find-peak-element) |
+| [0774-minimize-max-distance-to-gas-station](https://github.com/anshitamakode/LeetCode/tree/master/0774-minimize-max-distance-to-gas-station) |
 | [0783-search-in-a-binary-search-tree](https://github.com/anshitamakode/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0875-koko-eating-bananas](https://github.com/anshitamakode/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/anshitamakode/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -65,6 +66,7 @@ My LC Profile
 | [0416-partition-equal-subset-sum](https://github.com/anshitamakode/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anshitamakode/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0747-min-cost-climbing-stairs](https://github.com/anshitamakode/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0774-minimize-max-distance-to-gas-station](https://github.com/anshitamakode/LeetCode/tree/master/0774-minimize-max-distance-to-gas-station) |
 | [0875-koko-eating-bananas](https://github.com/anshitamakode/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/anshitamakode/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/anshitamakode/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
