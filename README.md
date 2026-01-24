@@ -71,6 +71,7 @@ My LC Profile
 | [1036-rotting-oranges](https://github.com/anshitamakode/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/anshitamakode/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/anshitamakode/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/anshitamakode/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -154,6 +155,7 @@ My LC Profile
 | [0451-sort-characters-by-frequency](https://github.com/anshitamakode/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anshitamakode/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/anshitamakode/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/anshitamakode/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Linked List
 |  |
 | ------- |
@@ -220,6 +222,7 @@ My LC Profile
 | [0142-linked-list-cycle-ii](https://github.com/anshitamakode/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/anshitamakode/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anshitamakode/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/anshitamakode/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -265,4 +268,8 @@ My LC Profile
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/anshitamakode/LeetCode/tree/master/0148-sort-list) |
+## Greedy
+|  |
+| ------- |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/anshitamakode/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 <!---LeetCode Topics End-->
