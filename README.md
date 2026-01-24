@@ -147,6 +147,7 @@ My LC Profile
 |  |
 | ------- |
 | [0015-3sum](https://github.com/anshitamakode/LeetCode/tree/master/0015-3sum) |
+| [0148-sort-list](https://github.com/anshitamakode/LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anshitamakode/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/anshitamakode/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/anshitamakode/LeetCode/tree/master/0242-valid-anagram) |
@@ -160,6 +161,7 @@ My LC Profile
 | [0025-reverse-nodes-in-k-group](https://github.com/anshitamakode/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/anshitamakode/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anshitamakode/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/anshitamakode/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anshitamakode/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Recursion
 |  |
@@ -205,6 +207,7 @@ My LC Profile
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anshitamakode/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anshitamakode/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0148-sort-list](https://github.com/anshitamakode/LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anshitamakode/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Two Pointers
 |  |
@@ -215,6 +218,7 @@ My LC Profile
 | [0042-trapping-rain-water](https://github.com/anshitamakode/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/anshitamakode/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anshitamakode/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/anshitamakode/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anshitamakode/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Backtracking
 |  |
@@ -257,4 +261,8 @@ My LC Profile
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/anshitamakode/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/anshitamakode/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
