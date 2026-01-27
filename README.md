@@ -53,6 +53,7 @@ My LC Profile
 | [0031-next-permutation](https://github.com/anshitamakode/LeetCode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/anshitamakode/LeetCode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/anshitamakode/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/anshitamakode/LeetCode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/anshitamakode/LeetCode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anshitamakode/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anshitamakode/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -233,6 +234,7 @@ My LC Profile
 | ------- |
 | [0022-generate-parentheses](https://github.com/anshitamakode/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/anshitamakode/LeetCode/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/anshitamakode/LeetCode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/anshitamakode/LeetCode/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/anshitamakode/LeetCode/tree/master/0212-word-search-ii) |
 ## Quickselect
