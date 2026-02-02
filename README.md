@@ -14,6 +14,7 @@ My LC Profile
 | [0144-binary-tree-preorder-traversal](https://github.com/anshitamakode/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/anshitamakode/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0341-flatten-nested-list-iterator](https://github.com/anshitamakode/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
+| [0450-delete-node-in-a-bst](https://github.com/anshitamakode/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/anshitamakode/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0663-equal-tree-partition](https://github.com/anshitamakode/LeetCode/tree/master/0663-equal-tree-partition) |
 | [0783-search-in-a-binary-search-tree](https://github.com/anshitamakode/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -26,6 +27,7 @@ My LC Profile
 | [0099-recover-binary-search-tree](https://github.com/anshitamakode/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anshitamakode/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/anshitamakode/LeetCode/tree/master/0162-find-peak-element) |
+| [0450-delete-node-in-a-bst](https://github.com/anshitamakode/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0774-minimize-max-distance-to-gas-station](https://github.com/anshitamakode/LeetCode/tree/master/0774-minimize-max-distance-to-gas-station) |
 | [0783-search-in-a-binary-search-tree](https://github.com/anshitamakode/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0875-koko-eating-bananas](https://github.com/anshitamakode/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -40,6 +42,7 @@ My LC Profile
 | [0112-path-sum](https://github.com/anshitamakode/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anshitamakode/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/anshitamakode/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0450-delete-node-in-a-bst](https://github.com/anshitamakode/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/anshitamakode/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0663-equal-tree-partition](https://github.com/anshitamakode/LeetCode/tree/master/0663-equal-tree-partition) |
 | [0783-search-in-a-binary-search-tree](https://github.com/anshitamakode/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
